@@ -24,7 +24,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/dice-roll-simulator.git
+git clone https://github.com/SayanDey322/dice-roll-simulator.git
 Open index.html in your browser.
 
 Click the roll button and watch the dice roll!
